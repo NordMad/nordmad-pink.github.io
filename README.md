@@ -1,1 +1,1 @@
-HTML Academy graduation priject
+HTML Academy graduation project
